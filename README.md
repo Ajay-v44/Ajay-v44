@@ -68,22 +68,19 @@
 </div>
 
 # 📊 GitHub Stats:
-<div style="display: flex; align-items: center; background-color: #292b2c; padding: 15px; border-radius: 10px; margin: 20px;">
-    <div style="margin-right: 20px;">
-        <p align="center">  
-            <img src="https://github-readme-stats.vercel.app/api?username=Ajay-v44&theme=radical&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-        </p>
-    </div>
-    <div style="margin-right: 20px;">
-        <p align="center">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-v44&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
-        </p>
-    </div>
-    <div>
-        <p align="center"> 
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-v44&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="400" height="200" />
-        </p>
-    </div>
-</div>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ajay-v44&show_icons=true&count_private=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay-v44&theme=radical" alt="GitHub Streak Stats" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay-v44&layout=compact&theme=radical" alt="Top Languages" width="400" height="200" />
+</p>
 
 
