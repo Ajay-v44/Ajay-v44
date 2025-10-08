@@ -3,7 +3,7 @@
   <small>Hi there!</small> 
   <br/>
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Waving Hand Emoji" width="50"> 
-  <small>I'm Ajay v,  A passionate full stack developer from India.</small>
+  <small>I'm Ajay v,  A passionate Software Engineer from India .</small>
   <br/>
   🚀 I’m currently working on Software Development,Devops and Ai&Ml.
 </p>
